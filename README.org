@@ -1,0 +1,10 @@
+* cl-httpsqs
+
+A client lib for interacting with HTTPSQS
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Liutos/cl-httpsqs.git   |
+| commit  | 7e1a6c2  |
+| systems | cl-httpsqs |
+|---------+-------------------------------------------|
+
